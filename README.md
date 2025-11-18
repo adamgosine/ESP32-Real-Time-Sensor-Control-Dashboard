@@ -1,6 +1,6 @@
 # Real-Time ESP32 Sensor Dashboard (High-Speed 100 FPS Visualization)
 
-A complete real-time control system demonstrating embedded sensor acquisition, WiFi TCP streaming, and high-frequency desktop visualization. The ESP32 collects sensor readings (LDR + Joystick), computes an error signal, drives a servo, and streams telemetry to a Python dashboard built with PyQtGraph.
+A real-time control system demonstrating embedded sensor acquisition, WiFi TCP streaming, and high-frequency desktop visualization. The ESP32 collects sensor readings (LDR + Joystick), computes an error signal, drives a servo, and streams telemetry to a Python dashboard built with PyQtGraph.
 
 
 ---
@@ -78,7 +78,7 @@ realtime-sensor-dashboard/
 
 ---
 
-# ESP32 Firmware (Included)
+# ESP32 Firmware 
 
 Full firmware is located here:  
 **[esp32_realtime.ino](https://github.com/adamgosine/realtime-sensor-dashboard/blob/main/esp32_realtime.ino)** 
@@ -122,22 +122,9 @@ PORT = 8080
 - Real-time control loop  
 - WiFi TCP communication  
 - Non-blocking sockets  
-- JSON telemetry protocol  
-- PyQtGraph 100 FPS visualization  
-- Embedded-to-host data pipeline  
+- JSON telemetry 
 
 ---
-
-# Skills Demonstrated
-
-- ESP32 firmware development  
-- Sensor calibration & normalization  
-- Control systems fundamentals  
-- Real-time Python visualization  
-- Socket programming  
-- Efficient data buffering (deque)  
-- Embedded/desktop system integration  
-- High-performance GUI programming  
 
 ---
 
