@@ -6,7 +6,7 @@ A real-time control system demonstrating embedded sensor acquisition, WiFi TCP s
 ---
 
 ## Demo Video Watch the real-time system in action:
-**[Link](https://drive.google.com/file/d/1TFWmAxIXGmdi_KzkTizWDqopPBfHcbkX/view?usp=sharing)**
+**[Click Me](https://drive.google.com/file/d/1TFWmAxIXGmdi_KzkTizWDqopPBfHcbkX/view?usp=sharing)**
 
 
 ---
